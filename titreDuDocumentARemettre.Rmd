@@ -1,0 +1,52 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+bibliography: bib/references.json
+csl: "https://www.zotero.org/styles/chicago-author-date-fr"
+fontsize: 12pt
+header-includes:
+- \usepackage{setspace}\onehalfspacing
+---
+\begin{titlepage}
+  \newpage
+  \let\footnotesize\small
+  \let\footnoterule\relax
+  \let \footnote \thanks
+
+  \baselineskip = 1.4\baselineskip
+
+  \begin{center}
+    \setcounter{page}{1}
+    \includegraphics[height=20mm,keepaspectratio=true]{figures/logoULaval/ul_p}
+    \null\vfil
+    {\fontsize{16}{14}\selectfont \textbf{\@*TITRE DE L'ESSAI*}}
+    \vfil
+    \textbf{\@*VOTRE NOM*} \\
+    *VOTRE NI*
+    \vfil
+    *NOM DU PROJET*\\*NUMERO DU COUR*
+    \vfil
+    Travail présenté à:\\
+    \textbf{\@*PROFESSEUR À QUI LE TRAVAIL EST PRÉSENTÉ*} \\
+    \vfil
+    Departement de *VOTRE DÉPARTEMENT*\\Faculté *VOTRE FACULTÉ*\\Université Laval
+    \vfil
+    \vfil
+    Québec, Canada \\
+    \vfil
+    \copyright \thinspace \@*VOTRE NOM*, `r Sys.setlocale("LC_TIME", "fr_FR.UTF-8"); format(Sys.Date(), "%d %B %Y")` \\
+  \end{center}\par
+\end{titlepage}
+
+# Introduction
+
+# Paragraphe 1
+
+# Paragraphe 2
+
+# Paragraphe 3
+
+# Conclusion
+
+# Bibliographie
