@@ -20,22 +20,22 @@ header-includes:
     \setcounter{page}{1}
     \includegraphics[height=20mm,keepaspectratio=true]{figures/logoULaval/ul_p}
     \null\vfil
-    {\fontsize{16}{14}\selectfont \textbf{\@*TITRE DE L'ESSAI*}}
+    {\fontsize{16}{14}\selectfont \textbf{\@La diplomatie en politique comparée}}
     \vfil
-    \textbf{\@*VOTRE NOM*} \\
-    *VOTRE NI*
+    \textbf{\@Laurence-Olivier M. Foisy} \\
+    537 002 485
     \vfil
-    *NOM DU PROJET*\\*NUMERO DU COUR*
+    Revue de littérature\\POL-7047
     \vfil
     Travail présenté à:\\
-    \textbf{\@*PROFESSEUR À QUI LE TRAVAIL EST PRÉSENTÉ*} \\
+    \textbf{\@Marie Brossier} \\
     \vfil
-    Departement de *VOTRE DÉPARTEMENT*\\Faculté *VOTRE FACULTÉ*\\Université Laval
+    Département de science politique\\Faculté des sciences sociales\\Université Laval
     \vfil
     \vfil
     Québec, Canada \\
     \vfil
-    \copyright \thinspace \@*VOTRE NOM*, `r Sys.setlocale("LC_TIME", "fr_FR.UTF-8"); format(Sys.Date(), "%d %B %Y")` \\
+    \copyright \thinspace \@Laurence-Olivier M. Foisy, `r Sys.setlocale("LC_TIME", "fr_FR.UTF-8"); format(Sys.Date(), "%d %B %Y")` \\
   \end{center}\par
 \end{titlepage}
 
