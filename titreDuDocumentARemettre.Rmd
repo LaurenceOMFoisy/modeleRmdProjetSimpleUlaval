@@ -6,8 +6,7 @@ bibliography: bib/references.json
 csl: "https://www.zotero.org/styles/chicago-author-date-fr"
 fontsize: 12pt
 header-includes:
-- \usepackage{setspace}
-- \onehalfspacing
+- \usepackage{setspace}\onehalfspacing
 ---
 \begin{titlepage}
   \newpage
@@ -49,5 +48,3 @@ header-includes:
 # Paragraphe 3
 
 # Conclusion
-
-# Bibliographie
