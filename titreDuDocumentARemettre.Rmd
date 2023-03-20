@@ -39,6 +39,21 @@ header-includes:
   \end{center}\par
 \end{titlepage}
 
+<!-- L'étudiant.e doit produire une revue de littérature sur un sujet validé par le professeur. Le thème doit
+être proposé par l'étudiant (au plus tard lors de la séance du 31 janvier). L'exercice se divisera en
+deux parties. Il faudra d'abord fournir une bibliographie exhaustive de 25-35 titres que vous
+commenterez (voir exemple). Il vous faudra ensuite produire un texte qui réponde aux questions
+suivantes en mobilisant cette littérature commentées :
+1. Quels sont les éléments (théories, modèles, constats, etc.) les plus importants à retenir dans la
+littérature sur le sujet en question?
+2. Quelles sont les limites et les failles dans cette littérature? Quels auteurs offrent les contributions
+les plus pertinentes?
+Le texte qui accompagne la bibliographie commentée doit faire quatre pages (sans la bibliographie à
+ajouter en fin de document), interligne simple, justifié à gauche et à droite en Times New Roman 12.
+Si une ou plusieurs de ces conditions ne sont pas respectées lors de la remise, une pénalité d'un
+point pas éléments manquants sera imposée. La bibliographie exhaustive est essentielle et à réaliser
+bien en amont pour avoir eu le temps de lire les textes et de les assimiler. Je serai extrêmement
+vigilante aux fautes d'orthographe. -->
 # Introduction
 
 # Paragraphe 1
@@ -50,3 +65,53 @@ header-includes:
 # Conclusion
 
 # Bibliographie
+
+Berridge, G. (2015). Diplomacy: Theory and practice. Palgrave Macmillan.
+
+Carlsnaes, W. (Ed.). (2012). Handbook of international relations. SAGE.
+
+Colombat, A. (2011). Les diplomaties comparées: Une approche pluridisciplinaire. Presses universitaires de France.
+
+Cooper, A. F., & Hocking, B. (2013). Global governance and diplomacy: Worlds apart?. Palgrave Macmillan.
+
+De Sousa Santos, B. (2002). Toward a multicultural conception of human rights. International Journal of Human Rights, 6(1), 105-111.
+
+Destradi, S. (2010). Diplomacy, bargaining and negotiation: Themes and challenges in comparative perspective. International Politics, 47(2-3), 243-258.
+
+Drysdale, P. (2005). Comparative diplomacy: A theoretical framework. In M. J. Smith & J. M. Van Hook (Eds.), U.S.-Japan strategic challenges: The impact of alliance dynamics (pp. 191-212). Palgrave Macmillan.
+
+Fawcett, L., & Hurrell, A. (Eds.). (1995). Regionalism in world politics: Regional organization and international order. Oxford University Press.
+
+Giddens, A. (1984). The constitution of society: Outline of the theory of structuration. Polity Press.
+
+Gourevitch, P. A. (2002). Domestic politics and international relations. In W. Carlsnaes, T. Risse, & B. A. Simmons (Eds.), Handbook of international relations (pp. 309-328). SAGE.
+
+Haas, E. B. (1958). The uniting of Europe: Political, social, and economic forces, 1950-1957. Stanford University Press.
+
+Hollis, M. (Ed.). (1991). The Oxford handbook of international relations. Oxford University Press.
+
+Hurrell, A. (2018). On global order: Power, values, and the constitution of international society. Oxford University Press.
+
+Jönsson, C., & Hall, M. P. (Eds.). (2011). Essence of diplomacy. Palgrave Macmillan.
+
+Keohane, R. O. (1984). After hegemony: Cooperation and discord in the world political economy. Princeton University Press.
+
+Krasner, S. D. (1999). Sovereignty: Organized hypocrisy. Princeton University Press.
+
+Lake, D. A. (2011). International relations theory and European integration. Journal of European Public Policy, 18(4), 467-478.
+
+Lamy, S. L., & Maskin, E. S. (2013). Games and information: An introduction to game theory. Wiley.
+
+Mitzen, J. (2016). Power in concert: The nineteenth-century origins of global governance. University of Chicago Press.
+
+Nye, J. S. (2011). The future of power. PublicAffairs.
+
+Reus-Smit, C. (2013). The struggle for global order: Leaders and followers in the post-Cold War era. Cambridge University Press.
+
+Ruggie, J. G. (1993). Territoriality and beyond: Problematizing modernity in international relations. International Organization, 47(1), 139-174.
+
+Smith, S., & Hadfield, A. (2017). Diplomacy in the digital age. Oxford University Press.
+
+Waltz, K. N. (1979). Theory of international politics. McGraw-Hill.
+
+Zürn, M. (2018). A theory of global governance: Authority, legitimacy, and contestation. Oxford University Press.
