@@ -6,8 +6,14 @@ bibliography: bib/references.json
 csl: "https://www.zotero.org/styles/chicago-author-date-fr"
 fontsize: 12pt
 header-includes:
-- \usepackage{setspace}\onehalfspacing
+- \usepackage{setspace}
+- \onehalfspacing
 ---
+<style>
+body {
+  text-align: justify;
+}
+</style>
 \begin{titlepage}
   \newpage
   \let\footnotesize\small
