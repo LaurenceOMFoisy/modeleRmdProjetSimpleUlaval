@@ -42,6 +42,9 @@ _privatefolder*
 # *.eps
 *.png
 
+# Compilation RMD
+.knit.md
+.tex
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
